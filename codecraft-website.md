@@ -1,8 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=CodeCraft%20Solutions&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Corporate%20Website%20%7C%20HTML%20%2B%20Bootstrap%20%2B%20Vercel&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
+# 🌐 CodeCraft Solutions
 
-[![Live](https://img.shields.io/badge/Live-codecraftpty.com-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.codecraftpty.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Corporate+Website;HTML+%2B+CSS+%2B+JavaScript+%2B+Bootstrap;Software+Development+Startup+%7C+Panama)](https://git.io/typing-svg)
+
+<br/>
+
+[![Live](https://img.shields.io/badge/Live-codecraftpty.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.codecraftpty.com)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)]()
 [![Status](https://img.shields.io/badge/Status-Live-success?style=for-the-badge)]()
 
@@ -16,7 +20,7 @@
 
 **CodeCraft Solutions** is my software development startup based in Panama. This is the official corporate website — built to present services, showcase work, and provide a professional contact point for potential clients.
 
-Fast, responsive, and deployed on Vercel.
+Fast, responsive, and professionally deployed.
 
 🔗 **Live at [codecraftpty.com](https://www.codecraftpty.com)**
 
@@ -29,7 +33,7 @@ Fast, responsive, and deployed on Vercel.
 | 🎨 **Responsive Design** | Fully optimized for desktop, tablet, and mobile |
 | ⚡ **Fast Load** | Lightweight build with optimized assets |
 | 📬 **Contact Section** | Direct contact flow for potential clients |
-| 🚀 **Deployed on Vercel** | Continuous deployment with zero downtime |
+| 🏢 **Services Showcase** | Professional presentation of development services |
 
 ---
 
@@ -39,7 +43,6 @@ Fast, responsive, and deployed on Vercel.
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
@@ -66,7 +69,7 @@ Built by **[Jorge Jiménez](https://github.com/jorgejimenezdev)** — Founder of
 
 **CodeCraft Solutions** es mi startup de desarrollo de software con sede en Panamá. Este es el sitio web corporativo oficial — construido para presentar servicios, mostrar proyectos y proporcionar un punto de contacto profesional para clientes potenciales.
 
-Rápido, responsivo y desplegado en Vercel.
+Rápido, responsivo y desplegado profesionalmente.
 
 🔗 **En vivo en [codecraftpty.com](https://www.codecraftpty.com)**
 
@@ -79,7 +82,7 @@ Rápido, responsivo y desplegado en Vercel.
 | 🎨 **Diseño Responsivo** | Totalmente optimizado para escritorio, tablet y móvil |
 | ⚡ **Carga Rápida** | Build ligero con assets optimizados |
 | 📬 **Sección de Contacto** | Flujo de contacto directo para clientes potenciales |
-| 🚀 **Desplegado en Vercel** | Despliegue continuo sin tiempo de inactividad |
+| 🏢 **Presentación de Servicios** | Presentación profesional de servicios de desarrollo |
 
 ---
 
@@ -89,7 +92,6 @@ Rápido, responsivo y desplegado en Vercel.
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
@@ -98,11 +100,3 @@ Rápido, responsivo y desplegado en Vercel.
 Desarrollado por **[Jorge Jiménez](https://github.com/jorgejimenezdev)** — Fundador de [CodeCraft Solutions](https://www.codecraftpty.com)
 
 📩 [info@codecraftpty.com](mailto:info@codecraftpty.com)
-
----
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,12&height=110&section=footer" width="100%"/>
-
-*Developed with ❤️ in Panama 🇵🇦*
-</div>

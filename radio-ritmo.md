@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Radio%20Ritmo&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Official%20Mobile%20App%20%7C%20Flutter&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+# 📻 Radio Ritmo
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=3DDC84&center=true&vCenter=true&width=500&lines=Official+Mobile+App;Live+Radio+Streaming;Built+with+Flutter+%F0%9F%93%BB)](https://git.io/typing-svg)
+
+<br/>
 
 [![Android](https://img.shields.io/badge/Android-Available-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://play.google.com/store/apps/details?id=com.radioritmo.app)
 [![Flutter](https://img.shields.io/badge/Built%20with-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
@@ -14,7 +18,7 @@
 
 ## 📻 About
 
-**Radio Ritmo** is the official mobile application for Radio Ritmo, a Panamanian radio station. Built natively with Flutter, it delivers a seamless live streaming experience with background audio support — so listeners never miss a beat, even when the phone is locked or another app is open.
+**Radio Ritmo** is the official mobile application for Radio Ritmo, a Panamanian radio station. Built natively with Flutter for Android, it delivers a seamless live streaming experience with background audio support — so listeners never miss a beat, even when the screen is locked or another app is open.
 
 > 🎙️ Real users. Live in production. Available on Google Play.
 
@@ -36,7 +40,7 @@
 |---|---|
 | 📡 **Live Streaming** | Real-time audio stream from the radio station |
 | 🔊 **Background Audio** | Keeps playing when the screen locks or you switch apps |
-| ⚡ **Optimized Performance** | Smooth, lightweight experience on a wide range of Android devices |
+| ⚡ **Optimized Performance** | Smooth, lightweight experience on Android devices |
 
 ---
 
@@ -45,7 +49,6 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 ---
 
@@ -81,7 +84,7 @@ Built by **[Jorge Jiménez](https://github.com/jorgejimenezdev)** — Founder of
 
 ## 📻 Descripción
 
-**Radio Ritmo** es la aplicación móvil oficial de Radio Ritmo, emisora panameña. Desarrollada nativamente con Flutter, ofrece streaming en vivo con audio en segundo plano — para que los oyentes no se pierdan nada, incluso con la pantalla bloqueada.
+**Radio Ritmo** es la aplicación móvil oficial de Radio Ritmo, emisora panameña. Desarrollada nativamente con Flutter para Android, ofrece streaming en vivo con audio en segundo plano — para que los oyentes no se pierdan nada, incluso con la pantalla bloqueada.
 
 > 🎙️ Usuarios reales. En producción. Disponible en Google Play.
 
@@ -112,7 +115,6 @@ Built by **[Jorge Jiménez](https://github.com/jorgejimenezdev)** — Founder of
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 ---
 
@@ -132,11 +134,3 @@ Desarrollado por **[Jorge Jiménez](https://github.com/jorgejimenezdev)** — Fu
 
 > Código fuente privado. Demo y explicación técnica disponibles bajo solicitud.
 > 📩 [info@codecraftpty.com](mailto:info@codecraftpty.com)
-
----
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=110&section=footer" width="100%"/>
-
-*Developed with ❤️ in Panama 🇵🇦*
-</div>

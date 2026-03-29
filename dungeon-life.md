@@ -1,9 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18,22,30&height=200&section=header&text=Dungeon%20Life&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=2D%20Mobile%20Dungeon%20Crawler%20%7C%20Flutter%20%2B%20Flame%20Engine&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
+# 🎮 Dungeon Life
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF6B35&center=true&vCenter=true&width=550&lines=2D+Mobile+Dungeon+Crawler;Flutter+%2B+Flame+Engine;Built+from+scratch+%E2%9A%94%EF%B8%8F)](https://git.io/typing-svg)
+
+<br/>
 
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)]()
-[![Flame](https://img.shields.io/badge/Flame%20Engine-orange?style=for-the-badge&logo=dart&logoColor=white)]()
+[![Flame](https://img.shields.io/badge/Flame%20Engine-FF6600?style=for-the-badge&logo=dart&logoColor=white)]()
 [![Status](https://img.shields.io/badge/Status-In%20Active%20Development-orange?style=for-the-badge)]()
 
 [← Back to Portfolio](README.md) &nbsp;·&nbsp; 🌐 [Versión en Español](#español)
@@ -14,11 +18,11 @@
 
 ## 🎮 About
 
-**Dungeon Life** is a 2D mobile dungeon crawler built from scratch using Flutter and the Flame game engine. A passion project developed alongside my brother — combining our love for classic dungeon games with modern mobile development.
+**Dungeon Life** is a 2D mobile dungeon crawler built from scratch using Flutter and the Flame game engine. A passion project developed alongside my brother — combining love for classic dungeon games with modern mobile development.
 
-The game features custom-built game architecture: no pre-made templates, everything designed and coded from the ground up.
+No pre-made templates. No shortcuts. Every mechanic designed and coded from the ground up.
 
-> 🔨 Actively in development — stay tuned for updates.
+> 🔨 Actively in development — stay tuned.
 
 ---
 
@@ -26,11 +30,11 @@ The game features custom-built game architecture: no pre-made templates, everyth
 
 | Feature | Description |
 |---|---|
-| ⚔️ **Turn-Based Combat** | Strategic combat system with skills and cooldowns |
-| 🗺️ **Dungeon Exploration** | Multi-level dungeon maps with secrets and traps |
-| 📈 **Character Progression** | Level up, unlock skills, and improve stats |
-| 🎒 **Inventory System** | Collect weapons, armor, and items throughout the dungeon |
-| 👾 **Enemy AI** | Diverse enemy types with different behaviors and difficulty |
+| ⚔️ **Turn-Based Combat** | Strategic combat with skills and cooldowns |
+| 🗺️ **Dungeon Exploration** | Multi-level maps with secrets and traps |
+| 📈 **Character Progression** | Level up, unlock skills, improve stats |
+| 🎒 **Inventory System** | Collect weapons, armor, and items |
+| 👾 **Enemy AI** | Diverse enemy types with different behaviors |
 
 ---
 
@@ -46,15 +50,15 @@ The game features custom-built game architecture: no pre-made templates, everyth
 
 ## 🏗️ Architecture Highlights
 
-- Custom game loop and state management built on Flame's component system
+- Custom game loop built on Flame's component system
 - Modular entity system for easy addition of new enemies, items, and mechanics
-- Separation of game logic from rendering for clean, testable code
+- Clean separation of game logic from rendering
 
 ---
 
 ## 🔒 Note
 
-Source code is private. This project is in active development — a playable demo will be shared when ready.
+Source code is private. A playable demo will be shared when ready.
 
 📩 [info@codecraftpty.com](mailto:info@codecraftpty.com)
 
@@ -79,11 +83,11 @@ Built by **[Jorge Jiménez](https://github.com/jorgejimenezdev)** & his brother 
 
 ## 🎮 Descripción
 
-**Dungeon Life** es un dungeon crawler 2D para móvil construido desde cero con Flutter y el motor de juegos Flame. Un proyecto de pasión desarrollado junto a mi hermano — combinando el amor por los juegos de mazmorras clásicos con el desarrollo móvil moderno.
+**Dungeon Life** es un dungeon crawler 2D para móvil construido desde cero con Flutter y Flame Engine. Un proyecto de pasión desarrollado junto a mi hermano — combinando el amor por los juegos de mazmorras clásicos con el desarrollo móvil moderno.
 
-El juego cuenta con arquitectura de juego construida a medida: sin plantillas pre-hechas, todo diseñado y programado desde el principio.
+Sin plantillas. Sin atajos. Cada mecánica diseñada y programada desde el principio.
 
-> 🔨 En desarrollo activo — próximamente más novedades.
+> 🔨 En desarrollo activo — próximamente.
 
 ---
 
@@ -91,11 +95,11 @@ El juego cuenta con arquitectura de juego construida a medida: sin plantillas pr
 
 | Característica | Descripción |
 |---|---|
-| ⚔️ **Combate por Turnos** | Sistema de combate estratégico con habilidades y cooldowns |
-| 🗺️ **Exploración de Mazmorras** | Mapas de mazmorra de múltiples niveles con secretos y trampas |
-| 📈 **Progresión del Personaje** | Sube de nivel, desbloquea habilidades y mejora estadísticas |
-| 🎒 **Sistema de Inventario** | Recoge armas, armadura y objetos por toda la mazmorra |
-| 👾 **IA de Enemigos** | Tipos de enemigos variados con diferentes comportamientos |
+| ⚔️ **Combate por Turnos** | Combate estratégico con habilidades y cooldowns |
+| 🗺️ **Exploración de Mazmorras** | Mapas de múltiples niveles con secretos y trampas |
+| 📈 **Progresión del Personaje** | Sube de nivel, desbloquea habilidades, mejora estadísticas |
+| 🎒 **Sistema de Inventario** | Recoge armas, armadura y objetos |
+| 👾 **IA de Enemigos** | Tipos variados con diferentes comportamientos |
 
 ---
 
@@ -109,17 +113,9 @@ El juego cuenta con arquitectura de juego construida a medida: sin plantillas pr
 
 ---
 
-## 🏗️ Aspectos Técnicos Destacados
-
-- Game loop personalizado y gestión de estado construidos sobre el sistema de componentes de Flame
-- Sistema de entidades modular para agregar fácilmente nuevos enemigos, objetos y mecánicas
-- Separación de lógica de juego y renderizado para código limpio y testeable
-
----
-
 ## 🔒 Nota
 
-El código fuente es privado. El proyecto está en desarrollo activo — se compartirá una demo jugable cuando esté lista.
+Código fuente privado. Se compartirá una demo jugable cuando esté lista.
 
 📩 [info@codecraftpty.com](mailto:info@codecraftpty.com)
 
@@ -128,11 +124,3 @@ El código fuente es privado. El proyecto está en desarrollo activo — se comp
 ## 👨‍💻 Desarrolladores
 
 Desarrollado por **[Jorge Jiménez](https://github.com/jorgejimenezdev)** y su hermano — [CodeCraft Solutions](https://www.codecraftpty.com)
-
----
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,22,18&height=110&section=footer" width="100%"/>
-
-*Developed with ❤️ in Panama 🇵🇦*
-</div>

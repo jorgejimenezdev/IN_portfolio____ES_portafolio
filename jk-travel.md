@@ -1,9 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,8,30&height=200&section=header&text=JK%20Travel&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Billing%20%26%20Management%20System%20%7C%20Flutter%20%2B%20SQL%20Server&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+# ✈️ JK Travel
 
-[![Flutter](https://img.shields.io/badge/Built%20with-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
-[![SQL Server](https://img.shields.io/badge/Database-SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)]()
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Billing+%26+Management+System;Flutter+%2B+Supabase+%2B+Vercel;Built+for+a+Travel+Agency+in+Panama)](https://git.io/typing-svg)
+
+<br/>
+
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)]()
+[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)]()
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)]()
 [![Status](https://img.shields.io/badge/Status-Live%20%7C%20Private%20Client-lightgrey?style=for-the-badge)]()
 
 [← Back to Portfolio](README.md) &nbsp;·&nbsp; 🌐 [Versión en Español](#español)
@@ -14,7 +19,7 @@
 
 ## ✈️ About
 
-**JK Travel** is an enterprise billing and management system built for a travel agency in Panama. Developed with Flutter for a cross-platform desktop and mobile experience, backed by SQL Server for reliable data management.
+**JK Travel** is an enterprise billing and management system built for a travel agency in Panama. Developed with Flutter for a cross-platform experience, with Supabase handling the backend and database, and deployed on Vercel.
 
 The system replaced entirely manual and paper-based workflows, centralizing client management, billing, and financial reporting into one unified platform.
 
@@ -38,9 +43,8 @@ The system replaced entirely manual and paper-based workflows, centralizing clie
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
@@ -73,7 +77,7 @@ Built by **[Jorge Jiménez](https://github.com/jorgejimenezdev)** — Founder of
 
 ## ✈️ Descripción
 
-**JK Travel** es un sistema empresarial de facturación y gestión desarrollado para una agencia de viajes en Panamá. Construido con Flutter para una experiencia multiplataforma (desktop y móvil), respaldado por SQL Server para una gestión de datos confiable.
+**JK Travel** es un sistema empresarial de facturación y gestión desarrollado para una agencia de viajes en Panamá. Construido con Flutter para una experiencia multiplataforma, con Supabase como backend y base de datos, y desplegado en Vercel.
 
 El sistema reemplazó completamente los flujos manuales y en papel, centralizando la gestión de clientes, facturación y reportes financieros en una sola plataforma.
 
@@ -97,15 +101,14 @@ El sistema reemplazó completamente los flujos manuales y en papel, centralizand
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
 ## 🔒 Nota de Privacidad
 
-Este es un sistema privado de cliente. El código fuente y capturas de pantalla detalladas son confidenciales por acuerdo con el cliente.
+Este es un sistema privado de cliente. El código fuente y capturas de pantalla son confidenciales por acuerdo con el cliente.
 
 Demo o explicación técnica disponibles bajo solicitud.
 
@@ -116,11 +119,3 @@ Demo o explicación técnica disponibles bajo solicitud.
 ## 👨‍💻 Desarrollador
 
 Desarrollado por **[Jorge Jiménez](https://github.com/jorgejimenezdev)** — Fundador de [CodeCraft Solutions](https://www.codecraftpty.com)
-
----
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,8,2&height=110&section=footer" width="100%"/>
-
-*Developed with ❤️ in Panama 🇵🇦*
-</div>
